@@ -11,6 +11,9 @@ name = "tsinghua"
 pandas = "==0.23.4"
 xgboost = "==0.72.1"
 scikit-learn = "==0.19.2"
+matplotlib = "==2.2.3"
+graphviz = "==0.8.4"
+numpy = "==1.15.0"
 
 [dev-packages]
 
