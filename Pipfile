@@ -2,15 +2,15 @@
 url = "https://pypi.tuna.tsinghua.edu.cn/simple"
 verify_ssl = true
 name = "tsinghua"
-
 #[[source]]
 #url = "https://pypi.org/simple"
 #verify_ssl = true
 #name = "pypi"
 
 [packages]
-pandas = "*"
-xgboost = "*"
+pandas = "==0.23.4"
+xgboost = "==0.72.1"
+scikit-learn = "==0.19.2"
 
 [dev-packages]
 
